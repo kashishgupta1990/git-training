@@ -1,4 +1,4 @@
-const people = ["Kashish"];
+const people = ["Kashish","Manish"];
 
 
 people.forEach((person) => {
