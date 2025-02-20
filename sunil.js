@@ -1,11 +1,5 @@
-import React from 'react'
+const people = ['sunil'];
 
-const sunil = () => {
-  return (
-    <div>
-      <h6>Rajasthan Police</h6>
-    </div>
-  )
-}
-
-export default sunil
+people.forEach((person) => {
+    console.log(person);
+});
